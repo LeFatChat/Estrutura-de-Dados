@@ -4,3 +4,4 @@ def soma(a,b):
     return resultado
 
 soma(3,4)
+soma(10,3)
